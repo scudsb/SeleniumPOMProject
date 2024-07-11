@@ -11,8 +11,6 @@ import org.testng.Assert;
 public class HomePage {
     public static Logger logger = LogManager.getLogger(HomePage.class);
     WebDriver webDriver;
-    @FindBy(xpath = "(//a[@class=\"brand-name\"])[3]")
-    WebElement title;
 
     @FindBy(xpath = "//a[contains(.,\"Log In\")]")
     WebElement logIn;

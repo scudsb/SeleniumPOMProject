@@ -26,7 +26,7 @@ public class baseTest {
     public static ExtentTest testLogger;
     public static WebDriver webDriver;
     public static String screenshotFile;
-    public static Logger logger = LogManager.getLogger(baseTest.class);;
+    public static Logger logger = LogManager.getLogger(baseTest.class);
 
     /**
      * Setting up the reporter and reporting configuration using spark reporter and reading values from config file
@@ -48,7 +48,6 @@ public class baseTest {
 
     /**
      * Method to create an extent test instance and set up the driver
-     * @param testMethod
      */
     @BeforeMethod
     public static void beforeMethod(Method testMethod) {
@@ -66,7 +65,6 @@ public class baseTest {
 
     /**
      * Method to log the test status after the test case execution using extent test
-     * @param testResult
      */
     @AfterMethod
     public static void afterMethod(ITestResult testResult){
