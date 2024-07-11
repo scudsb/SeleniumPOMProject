@@ -1,0 +1,37 @@
+16:51:16.074 INFO  - Inside method - beforeTest
+16:51:17.074 INFO  - Inside method - beforeTest
+17:05:39.441 [main] INFO  - Inside method - beforeTest
+17:05:39.910 [main] INFO  - Inside method - beforeTest
+17:05:52.743 [main] INFO  - Inside enterCredentialsAndLogin method in testcases.QATests
+17:05:52.786 [main] INFO  - Site Title Verified
+17:05:58.447 [main] INFO  - Login page loaded successfully
+17:05:59.505 [main] INFO  - Inside method - afterMethod
+17:06:00.041 [main] INFO  - Inside method - beforeTest
+17:06:10.725 [main] INFO  - Inside enterCredentialsAndLogin method in testcases.QATests
+17:06:10.776 [main] INFO  - Site Title Verified
+17:06:16.443 [main] INFO  - Login page loaded successfully
+17:06:18.071 [main] INFO  - Inside method - afterMethod
+17:06:18.538 [main] INFO  - Inside method - afterTest
+17:19:58.740 [main] INFO  - Inside method - beforeTest
+17:19:59.045 [main] INFO  - Inside method - beforeTest
+17:20:10.039 [main] INFO  - Inside enterCredentialsAndLogin method in testcases.QATests
+17:20:10.077 [main] INFO  - Site Title Verified
+17:20:15.306 [main] INFO  - Login page loaded successfully
+17:20:18.296 [main] INFO  - Dashboard page loaded successfully
+17:20:18.322 [main] INFO  - Inside method - afterMethod
+17:20:18.928 [main] INFO  - Inside method - afterTest
+17:20:51.545 [main] INFO  - Inside method - beforeTest
+17:20:51.828 [main] INFO  - Inside method - beforeTest
+17:21:01.585 [main] INFO  - Inside enterCredentialsAndLogin method in testcases.QATests
+17:21:01.590 [main] DEBUG - Inside verifySite
+17:21:01.634 [main] INFO  - Site Title Verified
+17:21:01.634 [main] DEBUG - Inside initialLogIn
+17:21:06.445 [main] DEBUG - Inside verifyIfPageIsLoaded
+17:21:06.612 [main] INFO  - Login page loaded successfully
+17:21:06.613 [main] DEBUG - Inside enterEmail
+17:21:07.177 [main] DEBUG - Inside enterPassword
+17:21:07.413 [main] DEBUG - Inside loginToApplication
+17:21:07.589 [main] DEBUG - Inside verifyDashboardIsLoaded
+17:21:09.365 [main] INFO  - Dashboard page loaded successfully
+17:21:09.389 [main] INFO  - Inside method - afterMethod
+17:21:09.960 [main] INFO  - Inside method - afterTest
